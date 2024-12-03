@@ -14,7 +14,7 @@ class OnboardingScreen extends StatelessWidget {
           children: [
             Expanded(
               flex: 3,
-              child: Image.asset('assets/rb_24047.png'), // أضف الصورة هنا
+              child: Image.asset('assets/rb_24047.png'), 
             ),
             const SizedBox(height: 20),
             const Text(
